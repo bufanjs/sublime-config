@@ -1,13 +1,14 @@
 {
-	"font_face": "Consolas",
-	"font_size": 12,
-	"tab_size": 4,
 	"auto_complete_delay": 0,
-	"save_on_focus_lost": true,
-	"show_encoding": true,
-	"trim_trailing_white_space_on_save": true,
+	"font_face": "Consolas",
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"save_on_focus_lost": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"trim_trailing_white_space_on_save": true,
+	"auto_complete_commit_on_tab": true
 }
